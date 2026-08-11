@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1e40af" />
+      <stop offset="1" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="50" fill="url(#bg)" />
+  <circle cx="450" cy="325" r="145" fill="#e5eefb" opacity="0.98" />
+  <path d="M293 758C309 626 350 552 450 552C550 552 591 626 607 758Z" fill="#e5eefb" opacity="0.98" />
+  <path d="M305 376C322 305 371 250 450 250C529 250 578 304 595 376C592 454 536 519 450 520C364 519 308 454 305 376Z" fill="#eff6ff" opacity="0.95" />
+  <text x="450" y="820" text-anchor="middle" font-family="Segoe UI, Arial" font-size="48" font-weight="700" fill="#ffffff">BARIS YALCINDURAN</text>
+</svg>
